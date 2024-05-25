@@ -5,7 +5,13 @@ Design and manufacture a mechanical testing bench for mechanical vibration of Cu
 
 ## General Objective. 
 
+Design and manufacture a mechanical structure for a test bench for mechanical vibration testing at the prototype level of CubeSat-type nanosatellites from 1U to 3U that are acceptable according to the NASA GEVS standard: GSFC-STD-7000 A.
+
 ## Specific Objectives. 
+
+1.- Diseñar y manufacturar mesa rectificada para montar el banco de pruebas.
+2.- Diseñar y manufacturar estructura metálica base de banco de pruebas, con soportes especializados para sensores y actuadores de acuerdo a estándar NASA GEVS: GSFC-STD-7000 A, así como para montaje de prototipos CubeSat.
+3.- Diseñar y manufacturar acoplamiento mecánico entre actuador y base para pruebas de vibración senoidal. 
 
 ## Abstract. 
 
