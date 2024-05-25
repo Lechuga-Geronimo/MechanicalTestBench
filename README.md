@@ -10,7 +10,9 @@ Design and manufacture a mechanical structure for a test bench for mechanical vi
 ## Specific Objectives. 
 
 1.- Diseñar y manufacturar mesa rectificada para montar el banco de pruebas.
+
 2.- Diseñar y manufacturar estructura metálica base de banco de pruebas, con soportes especializados para sensores y actuadores de acuerdo a estándar NASA GEVS: GSFC-STD-7000 A, así como para montaje de prototipos CubeSat.
+
 3.- Diseñar y manufacturar acoplamiento mecánico entre actuador y base para pruebas de vibración senoidal. 
 
 ## Abstract. 
