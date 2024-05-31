@@ -9,11 +9,11 @@ Design and manufacture a mechanical structure for a test bench for mechanical vi
 
 ## Specific Objectives. 
 
-1.- Diseñar y manufacturar mesa rectificada para montar el banco de pruebas.
+    1.- Design and manufacture a rectified table to assemble the test bench.
 
-2.- Diseñar y manufacturar estructura metálica base de banco de pruebas, con soportes especializados para sensores y actuadores de acuerdo a estándar NASA GEVS: GSFC-STD-7000 A, así como para montaje de prototipos CubeSat.
+    2.- Design and manufacture the base metal structure of the test bench, with specialized supports for sensors and actuators according to the NASA GEVS standard: GSFC-STD-7000 A, as well as for the assembly of CubeSat prototypes.
 
-3.- Diseñar y manufacturar acoplamiento mecánico entre actuador y base para pruebas de vibración senoidal. 
+    3.- Design and manufacture mechanical coupling between actuator and base for sinusoidal vibration tests.
 
 ## Abstract. 
 
@@ -28,9 +28,6 @@ In this way, and considering that certified vibration tests for CubeSats are onl
 One of the activities that are crucial to the successful launch of any satellite or space object is takeoff and deployment. This is because in the transport of this body, numerous forces occur that act on it, which range from mechanical vibrations resulting from the impact of the air to – in the worst case – a direct impact on the deployment device or even the satellite itself.
 This is why there is an entire regulation (NASA, 2019) that addresses how to validate that the satellite structure will be able to resist these forces and other variables. The standard is called GSFC-STD-7000A and is authoritative of NASA's Goddard Space Flight Center and since 2013 it has been in force on all space objects; Including protoflights, prototypes and expendable launch vehicles (ELV).
 
-In this way, the standard has become a reference for space agencies on the American continent and more so for those that carry out tests on prototypes or that seek to receive certifications in their laboratories (Kirtley, 2015). It is for this reason that the Aerospace Development Center (CDA) seeks the
-invention of a test bench prototype for the variables contemplated in the standard, starting with the mechanical tests that consist of three: mechanical impact and two vibration tests, sinusoidal and random. It has been decided that this platform was conceived to test miniaturized CubeSat-type satellites (Cal-Poly, 2020) because it is a well-standardized model, popular among the academic community, and with the feasibility that, in the future, after its implementation is compatible with other projects
-related to CubeSats. Furthermore, limiting the range of units that exist, it was decided to limit the use of only 1U, 1.5U, 2U and 3U units because they are the most popular.
+In this way, the standard has become a reference for space agencies on the American continent and more so for those that carry out tests on prototypes or that seek to receive certifications in their laboratories (Kirtley, 2015). It is for this reason that the [REDACTED] seeks the invention of a test bench prototype for the variables contemplated in the standard, starting with the mechanical tests that consist of three: mechanical impact and two vibration tests, sinusoidal and random. It has been decided that this platform was conceived to test miniaturized CubeSat-type satellites (Cal-Poly, 2020) because it is a well-standardized model, popular among the academic community, and with the feasibility that, in the future, after its implementation is compatible with other projects related to CubeSats. Furthermore, limiting the range of units that exist, it was decided to limit the use of only 1U, 1.5U, 2U and 3U units because they are the most popular.
 
-Thus, the first consists of simulating an impact condition, in which the CubeSat must be subjected to a mechanical shock. The second test consists of vibrating the CubeSat with a sinusoidal type trajectory by exercising a frequency sweep, while the third is to subject the satellite to a random type vibration within a certain range (Wirsching, 2006). For more
-information, see Table 1. It is worth mentioning that the GSFC-STD-7000A standard also considers other environmental physical variables, such as humidity, pressure and temperature, and even magnetism; However, they will not be considered in this work due to the scope of the project. For more details, please see section 2.
+Thus, the first consists of simulating an impact condition, in which the CubeSat must be subjected to a mechanical shock. The second test consists of vibrating the CubeSat with a sinusoidal type trajectory by exercising a frequency sweep, while the third is to subject the satellite to a random type vibration within a certain range (Wirsching, 2006). For more information, see Table 1. It is worth mentioning that the GSFC-STD-7000A standard also considers other environmental physical variables, such as humidity, pressure and temperature, and even magnetism; However, they will not be considered in this work due to the scope of the project. For more details, please see section 2.
